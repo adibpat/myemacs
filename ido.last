@@ -1,0 +1,52 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/" . "adibpat/")
+ ("/Users/adibpat/projects/python/" . "replace_text/")
+ ("/Users/adibpat/projects/" . "c/")
+ ("/Users/adibpat/.emacs.d/" . "auto-save-list/")
+ ("/Users/adibpat/" . "projects/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/adibpat/projects/c/"
+ "/Users/adibpat/projects/python/replace_text/"
+ "/Users/adibpat/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "test1.c"
+ "test.h"
+ "test.c"
+ "README.md"
+ "sample.txt"
+ "text_replace.py"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/adibpat/projects/c/" (22735 15988 0 0) "test.h~" "test.h" "test.c~" "test.c" "test" "../" "./")
+
+ ("/Users/adibpat/.emacs.d/" (22731 26957 0 0) "snippets/" "recentf~" "recentf" "init.el~" "init.el" "idutils.el" "ido.last~" "ido.last" "elpa/" "auto-save-list/" "../" "./")
+
+ ("/Users/adibpat/projects/python/replace_text/" (22731 20322 0 0) "text_replace.py" "sample.txt" "README.md" "getFileName.pyc" "getFileName.py" ".idea/" ".git/" "../" "./")
+
+ ("/Users/adibpat/" (22732 27701 0 0) "Public/" "projects/" "Pictures/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "Desktop/" ".viminfo" ".Trash/" ".ssh/" ".matplotlib/" ".gitconfig" ".emacs.d/" ".DS_Store" ".CFUserTextEncoding" ".bashrc" ".bash_sessions/" ".bash_history" "../" "./")
+
+ ("/Users/adibpat/projects/github/" (22730 3182 0 0) "adibpat.github.io/" "../" "./")
+
+ ("/Users/" (22729 60784 0 0) "Shared/" "Guest/" "adibpat/" ".localized" "../" "./")
+
+ ("/Users/adibpat/projects/python/" (22731 2193 0 0) "test/" "replace_text/" "../" "./")
+
+ ("/Users/adibpat/projects/" (22730 2435 0 0) "python/" "github/" "c/" "bash/" "../" "./")
+
+ ("/Users/adibpat/.emacs.d/auto-save-list/" (22731 9029 0 0) "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
